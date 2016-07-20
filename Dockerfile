@@ -1,4 +1,4 @@
-FROM mcpayment/ubuntu1404
+FROM mcpayment/ubuntu1604
 
 RUN apt-get update && \
     apt-get install --no-install-recommends -y \
